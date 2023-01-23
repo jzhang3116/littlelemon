@@ -1,6 +1,10 @@
+import BookingPage from "./BookingPage";
+
 function Main() {
     return(
-        <main></main>
+        <main>
+            <BookingPage/>
+        </main>
     )
 }
 
